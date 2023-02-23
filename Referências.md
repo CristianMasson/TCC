@@ -14,3 +14,6 @@
 - **Ano:** 2018
 - **PDF:** [:beers:](https://www.lume.ufrgs.br/bitstream/handle/10183/188188/001085467.pdf?sequence=1&isAllowed=y)  
   
+#### PRÁTICA ATUARIAL NA PREVIDÊNCIA SOCIAL
+- **Ano:** 2011  
+- **PDF:** [:beers:](https://d1wqtxts1xzle7.cloudfront.net/56014218/praticaatuarianaprevidencia-libre.pdf?1520635439=&response-content-disposition=inline%3B+filename%3DPRATICA_ATUARIAL_NA_PREVIDENCIA_SOCIAL_P.pdf&Expires=1677188241&Signature=L2KMxmj~0GysWHbdqAReZ895qIT~1reylOO6W-gtvxDMXh~ehzA0WvPKxd0yS4iEQa2~6po5927oA34ChtcsRLUOa-zJdFdzjM25ZyaTpgWNClUV9XS~eofEWZFBNRXoEP~F0KTVcNml7XuG2ixHQxtYDc-wFC9KdSO9TfcLd8GJv0pnMPLktIiP9RnI2lKcnpjSuL0mznCw9KzLF83Wt4iF6sO7TUJhc5w865t-oe9J6izSMPjP~6xZA0Kyfpir51XDQ3Mc4cr3J1kLQCiZoHsx5DDvwtq0G~ziBdQwCr2oO84Qptw5-6eSY5YjEYxWZtpKAH2k~ZQhqrXtkdjnTQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
